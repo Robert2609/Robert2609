@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robert2609
 - 👀 I’m interested in Data Science/ Machine Learning
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Analyst 
 - 💞️ I’m looking to collaborate on various projects
 
 <!---
